@@ -1,0 +1,1 @@
+from squabblecrypt import SquabbleCrypt
